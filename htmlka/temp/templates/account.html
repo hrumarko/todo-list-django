@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="login-name">{{request.user}}</div>
+    <br><hr color="#0a451a">
+    <h1 class="tasks-h1">Finished tasks</h1>
+    <div class="finished-tasks">
+        {% for p in tasks %}
+        {{p.task}}
+        <br>
+        {% endfor %}
+    </div>
+    <h1 class="tasks-h1">Created tasks</h1>
+    <div class="finished-tasks">
+        {{all_tasks}}
+    </div>
+    <h1 class="tasks-h1">Tasks completed</h1>
+    <div class="finished-tasks">
+        {{finish_tasks}}
+    </div>
+{% endblock content %}
+    
