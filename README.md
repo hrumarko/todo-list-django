@@ -6,6 +6,5 @@
     <li>Отображение статистики в профиле</li>
 </ul>
 <br>
-![]()
-![](https://ibb.co/DVkPm8L)
-<img src="https://ibb.co/Qpp25g7" >
+![png](https://ibb.co/DVkPm8L)
+
