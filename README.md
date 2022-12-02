@@ -6,5 +6,7 @@
     <li>Отображение статистики в профиле</li>
 </ul>
 <br>
-![png](https://ibb.co/DVkPm8L)
+![png](https://i.postimg.cc/BnYSyjNY/1.png)
+![png](https://i.postimg.cc/3xch1PJz/2.png)
+
 
