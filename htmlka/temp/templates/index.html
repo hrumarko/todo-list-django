@@ -33,7 +33,7 @@
         <form method="POST">
             {% csrf_token %}
             <input type="hidden" name="id" value={{t.pk}}>
-            <button name="finish" type="submit" class="btn-finish">Завершить</button>
+            <button name="finish" type="submit" class="btn-finish">Done</button>
         </form>
     </div>
     {% endif %}
